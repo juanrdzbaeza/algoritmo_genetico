@@ -35,7 +35,14 @@
         </cite>
       </footer>
       <br>
-      <p class="text-info">Ver repositorio en &nbsp;&nbsp;<a class="btn btn-primary btn-lg" href="#" role="button">Github</a>
+      <p class="text-info">Ver repositorio en &nbsp;&nbsp;
+        <a class="btn btn-primary btn-lg" 
+          href="https://github.com/juanrdzbaeza/algoritmo_genetico" 
+          target="_blank" 
+          role="button">
+            Github
+        </a>
+      </p>
     </blockquote>
   </div>
   <div class="container">
