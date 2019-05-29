@@ -3,11 +3,11 @@
 
 ------------
 
-# Xcode, Swift e iOS –Introducción
+# Algoritmo Genético
 
 ------------
-### Lineas de Productos Software
+### Inteligencia Artifical
 
-> Primera actividad de la asignatura de Lineas de Productos Software. Se trata de una aplicacion que controla la entrda de dos campos de texto y muestra el resultado en una etiqueta.
+> Nos proponen resolver algún problema a través de algoritmos genéticos, nosotros planteamos resolver la escritura anticipada en campos de texto usando este tipo de inteligencia artificial.
 
 ![](https://github.com/juanrdzbaeza/firstApp/blob/master/images/portada_pie.png)
